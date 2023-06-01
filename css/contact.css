@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: "Montserrat", sans-serif;
+    background-color: lightslategray;
+}
+
+.container {
+    background-color: white;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    border-width: 5px;
+    border-color: black;
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 5pz;
+    text-align: center;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font: bolder;
+}
+
+h2 {
+    font-size: 3pz;
+    text-align: center;
+    color: black;
+}
+
+h4 {
+    font-size: 2pz;
+    text-align: left;
+    color: black;
+    font: bold;
+
+}
+
+p {
+    display: inline;
+}
